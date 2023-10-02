@@ -4,3 +4,5 @@ git add .
 git commit -m 'le message qui explique les modifications'
 git push
 git pull
+git branch
+git checkout
