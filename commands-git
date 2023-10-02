@@ -1,6 +1,6 @@
 pour cloner un repository nous uttilisons la commande git clone suivi du lien ssh
 ensuite on va utiliser les commandes
 git add .
-git commit
+git commit -m 'le message qui explique les modifications'
 git push
-
+git pull
